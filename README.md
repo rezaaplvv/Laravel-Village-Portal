@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://img.icons8.com/fluency/96/government-city.png" alt="Logo Desa" width="80" />
 <h1>🏛️ SISTEM INFORMASI & MANAJEMEN DESA</h1>
 <p><i>Solusi Digitalisasi Administrasi dan Transparansi Informasi Desa Modern</i></p>
 
